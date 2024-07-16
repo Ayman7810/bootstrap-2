@@ -327,6 +327,10 @@ a .logo {
     .testimonial .client_detail {
         width: 100%;
     }
+    .landing .point {
+        left: 50%;
+        transform: translateX(-60%) !important;
+    }
 
 }
 /* end Testimonial */
@@ -398,6 +402,7 @@ a .logo {
 .footer .contact-text .subscribe button {
     margin-left: 50%;
     transform: translateX(-50%);
+    
 }
 }
 /* end footer */
